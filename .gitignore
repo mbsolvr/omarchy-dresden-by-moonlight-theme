@@ -1,0 +1,15 @@
+# Local assistant state and credentials
+.agents/
+.aws/
+.codex/
+
+# Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS metadata
+.DS_Store
+Thumbs.db

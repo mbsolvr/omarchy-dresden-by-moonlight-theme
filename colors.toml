@@ -1,0 +1,39 @@
+# Johan Christian Dahl, View of Dresden by Moonlight
+# Blue-green charcoal with moonlit amber accents.
+mode = "dark"
+
+accent = "#b3e6db"
+selection = "#405858"
+muted = "#839e9a"
+
+background = "#232a2e"
+dark_background = "#1c2225"
+darker_background = "#171c1f"
+lighter_background = "#374145"
+
+foreground = "#adc9bc"
+dark_foreground = "#96b4aa"
+light_foreground = "#c9dfd1"
+bright_foreground = "#f8f9e8"
+
+selection_foreground = "#f8f9e8"
+hyprland_active_border = "rgba(b3e6dbee) rgba(f5d098dd) 45deg"
+hyprland_inactive_border = "rgba(58686d99)"
+active_border_color = "#b3e6db"
+active_tab_background = "#374145"
+
+red = "#f57f82"
+yellow = "#f5d098"
+orange = "#f7a182"
+green = "#cbe3b3"
+cyan = "#b3e6db"
+blue = "#b2caed"
+magenta = "#d2bdf3"
+brown = "#b69377"
+
+bright_red = "#ff9da0"
+bright_yellow = "#ffe0af"
+bright_green = "#dbe6af"
+bright_cyan = "#c9f0e6"
+bright_blue = "#cbdcf5"
+bright_magenta = "#e3d2f8"
